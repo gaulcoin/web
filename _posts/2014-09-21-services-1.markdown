@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: justswap.svg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: JustSwap
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Trade Gaul Coin at [Justswap](https://justswap.org/?lang=en-US#/home?tokenAddress=TY36uwtp6usDgMU7ZfCMyfJCC2viiwVXnT&type=swap) 
