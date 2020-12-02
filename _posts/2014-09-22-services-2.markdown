@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: cctip.svg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: CCTIP Swap
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Trade Gaul Coin at [CCTIP Swap](https://my.cctip.io/token/swap?token_a=06060001&token_b=06097631)
