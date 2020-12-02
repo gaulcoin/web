@@ -1,8 +1,11 @@
 ---
 layout: default
-img: justswap.svg
+img: 
 category: Services
-title: JustSwap
+title: Exchange
 description: |
 ---
-  Trade Gaul Coin at [Justswap](https://justswap.org/?lang=en-US#/home?tokenAddress=TY36uwtp6usDgMU7ZfCMyfJCC2viiwVXnT&type=swap) 
+  ### H3 You can trade Gaul Coin at:
+  1. [![Justswap](justswap.svg)](https://justswap.org/?lang=en-US#/home?tokenAddress=TY36uwtp6usDgMU7ZfCMyfJCC2viiwVXnT&type=swap)
+  2. 
+  3. 
