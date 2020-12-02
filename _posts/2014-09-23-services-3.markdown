@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: altilly.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Altilly Exchange
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ [Altilly Exchange](https://www.altilly.com/market/GAUL_BTC), coming soon
