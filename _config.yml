@@ -24,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
+  - title: tweet
     url: https://twitter.com/GaulCoin
-  - title: github
-    url: https://github.com/gaulcoin
-  - title: Telegram
+  - title: telegram
     url: https://t.me/gaulcoin
+  - title: email
+    url: info@gaul.co.in
